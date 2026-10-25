@@ -1,0 +1,12 @@
+
+{
+  "name": "Music Reactive Visualizer",
+  "short_name": "Music Visualizer",
+  "description": "Particle Sphere and Circle Music Visualizer",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d19",
+  "theme_color": "#080d19",
+  "orientation": "portrait"
+}
